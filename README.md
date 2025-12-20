@@ -8,6 +8,9 @@ the system ensures physically consistent blood flow prediction and enables
 autonomous nanobot navigation for identifying disease-specific hemodynamic
 abnormalities in an in-silico setting.
 
+## Nanobot Visualization
+![Nanobot Simulation](nanobot.png)
+
 ## Project Scope
 - Fully simulation-based (in-silico)
 - No real patient or clinical data
