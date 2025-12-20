@@ -32,10 +32,14 @@ abnormalities in an in-silico setting.
 - Scientific Computing: NumPy, SciPy  
 - Visualization: Matplotlib  
 
-## How to Run
-```bash
-pip install torch numpy scipy matplotlib
-python Train.py
+
+## Results
+
+### Simulated Annealing Convergence
+The optimization process demonstrates stable convergence with early stopping,
+indicating efficient nanobot path planning.
+
+![Simulated Annealing Convergence](sa_convergence.png)
 
 ## Demo Video
 
@@ -45,4 +49,10 @@ Watch the nanobot path planning simulation:
 
 Or click directly:
 https://youtu.be/TKSz1DcToIs
+
+## How to Run
+```bash
+pip install torch numpy scipy matplotlib
+python Train.py
+
 
