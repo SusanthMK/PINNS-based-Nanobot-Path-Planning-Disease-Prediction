@@ -36,3 +36,13 @@ abnormalities in an in-silico setting.
 ```bash
 pip install torch numpy scipy matplotlib
 python Train.py
+
+## Demo Video
+
+Watch the nanobot path planning simulation:
+
+[![Nanobot Demo](https://img.youtube.com/vi/TKSz1DcToIs/0.jpg)](https://youtu.be/TKSz1DcToIs)
+
+Or click directly:
+https://youtu.be/TKSz1DcToIs
+
