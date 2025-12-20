@@ -46,8 +46,7 @@ indicating efficient nanobot path planning.
 
 ## Demo Video
 
-Watch the nanobot path planning simulation:
-
+Demo:Nanobot path planning simulation (in-silico):
 [![Nanobot Demo](https://img.youtube.com/vi/TKSz1DcToIs/0.jpg)](https://youtu.be/TKSz1DcToIs)
 
 Or click directly:
