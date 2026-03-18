@@ -195,6 +195,18 @@ As a future extension, the project aims to develop a **real-world nanobot system
 
 ⚠️ Hardware implementation is part of future research and not included in the current system.
 
+## Results
+
+### Nanobot Simulation
+![Nanobot](Nanobot.png)
+
+### Simulated Annealing Convergence
+![Convergence](sa_convergence.png)
+
+### Interface Visualization
+![UI](UI.jpeg)
+![UI1](UI1.jpeg)
+
 ## Conclusion
 
 This project presents an integrated framework combining **PLGA-based nanobots, biosensors, PINNs, and optimization techniques** for early cardiovascular disease detection.
@@ -221,3 +233,13 @@ Nanobot path planning simulation (in-silico):
 [![Nanobot Demo](https://img.youtube.com/vi/TKSz1DcToIs/0.jpg)](https://youtu.be/TKSz1DcToIs)
 
 ▶️ Direct Link: https://youtu.be/TKSz1DcToIs
+
+## Repository Structure
+
+- `PINNS_MODEL.py` – Physics-Informed Neural Network for blood flow modeling  
+- `Path_Planner.py` – Simulated Annealing-based nanobot path optimization  
+- `Train.py` – Main execution script for simulation  
+- `Nanobot.png` – Nanobot visualization  
+- `sa_convergence.png` – Optimization convergence graph  
+- `UI.jpeg`, `UI1.jpeg` – Simulation interface visuals  
+- `README.md` – Project documentation  
