@@ -3,7 +3,7 @@ Aneurysm Prediction and Risk Estimation ML Pipeline
 =================================================
 This script implements 5 machine learning models for aneurysm prediction and risk estimation:
 1. Random Forest Classifier
-2. Gradient Boosting Classifier  
+2. Gradient Boosting Classifier 
 3. Support Vector Machine
 4. Multi-Layer Perceptron (Neural Network)
 5. Novel Hybrid Ensemble Architecture (BEST PERFORMING)
